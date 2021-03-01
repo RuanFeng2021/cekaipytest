@@ -5,5 +5,7 @@
 - [测试人论坛](https://ceshiren.com/c/22-category/22/l/latest)
 
 ## 作业地址
-参考链接：https://www.baidu.com/
+- [Git地址](https://github.com/RuanFeng2021/cekaipytest)
 
+## pytest官方文档
+- [链接地址](https://docs.pytest.org/en/stable/)
